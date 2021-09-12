@@ -1,0 +1,313 @@
+Aptitude  
+Number System
+Divisibility
+Numbers and Decimal Fractions
+Number System and HCF & LCM
+Mensuration
+Geometry
+Shapes, Area & Perimeter
+Arithmetic Ability
+Ages
+Averages
+Equations
+Probability
+Percentages
+Profit & Loss
+Work and Time
+Clocks and Calendar
+Ratios and Proportion
+Series and Progressions
+Allegations and Mixtures
+Distance, Speed and Time
+Permutations and Combinations
+Elementary Statistics
+Mean, Median, Mode, Standard Deviation, and Variance
+Data Interpretation
+Tabular Data Interpretation
+Graphical Data Interpretation
+Pie Charts Data Interpretation
+Simplifications & Approximations
+Simple Arithmetic Calculations
+32 Hours
+Reasoning  
+Identifying Word
+Word Series
+Word Pattern
+Numeric Patterns
+Number Series
+Problem Solving
+Problems based on Blood Relations
+Data Arrangements
+Seating Arrangements
+Figural and Factual Analysis
+Cube Folding, Paper Cuts, and Folds
+Decision Making
+Decision Making
+Data Sufficiency
+Syllogism
+Propositional Reasoning
+Statements and Conclusions
+Logical Venn Diagram and DI
+Visual/Spatial Reasoning
+Visual Reasoning
+13 Hours
+Verbal Ability  
+English Grammar
+Spelling
+Grammar
+Selecting Words
+Error Correction
+Passage Ordering
+Error Identification
+Sentence Completion
+Synonyms and Antonyms
+Reading Comprehension
+Cloze Test
+Reading and Comprehension
+10 Hours
+Programming Logic (For Ninja and NQT)
+Data Types in TCS MCQ questions
+Functions and Scope
+Recursion and Iteration
+File Handling
+Array
+Variables and Registers
+Loops
+Command Line Argument
+Misc
+OOPs
+Input-Output Questions
+Stacks and Queue
+Linked List
+Trees
+Graphs
+Dynamic Programming and Greedy
+Hashing
+Searching and Sorting
+Time Complexity
+and more topics from computer science	90 Hours
+Coding (for NQT and Ninja)
+Basic Coding
+Top 100 codes
+Recursion
+Backtracking
+Intermediate Coding
+30 Hours
+Psychometric
+Behavioral profiling based on commonly known personality traits
+3 Hours
+Coding (for Digital)
+Time Complexity
+Recursion for DSA
+Stacks
+Queues
+Linked List
+Trees
+Binary Search Tree(BST)
+Heaps
+Graphs
+Greedy Programming
+Dynamic Programming
+BackTracking
+Application of Searching and Sorting
+Analysis of Algorithm
+Recursion
+70 Hours
+C Course (Contains PrepInsta NanoDegree Certification)
+History of C
+Structure of a C program
+First program in C
+Basics of C
+Low Level Languages
+Mid Level Languages
+Identifiers and Keywords
+Tokens
+Macros
+Comments
+Variables
+Data Types
+Scope rules
+Local and Global variables
+Escape Sequences
+Enums
+If-else statements
+While loops
+Do-while loops
+Break, continue and GoTo statement
+Switch Case
+Ternary Operator
+Operator Precedence and Associativity
+Arithmetic Operators
+Assignment Operators
+Relational Operators
+Logical Operators
+Bitwise Operators
+Functions
+Storage Classes
+Arrays
+Pointers
+Pass by Value
+Pass by reference
+Pass by pointers
+Strings
+String Functions
+Arrays and Strings
+Structures
+Unions
+11 Hours 10 mins
+C++ Course (Contains PrepInsta NanoDegree Certification)
+C to C++ Transition
+Basics of OOPs (Why C++ or OOPS)
+Classes Objects, Getters, Setters, Intro to Data Abstraction and Data Encapsulation
+Types of Inheritence in C++
+Inheritance
+Access Specifiers
+Constructors & Destructors (Parameterised Constructors)
+Conversion Constructor in C++
+Copy Constructors in C++
+Constructors & Destructors with Inheritence
+Shallow Copy & Deep Copy (Copy Constructor Advanced)
+Introduction to Polymorphism in C++ (Intro to Runtime Compile time early-static late-dynamic Binding)
+Function Overloading in C++
+Operator Overloading in C++
+Parameterised Constructor & Constructor Overloading
+Relational Operator Overloading
+(Runtime Polymorphism) Function Overriding & Virtual Keyword
+Abstract Classes and Pure Virtual Function
+Virtual Base Class
+4 Hours 35 mins
+JAVA Course (Contains PrepInsta NanoDegree Certification)
+Introduction to Prime
+TCS and PrepInsta Certificates
+Doubt Solving
+Exclusive Instagram
+Upgradation
+Introduction to Java Course
+Installing JDK for MAC
+Installing IntelliJ iDea for MAC
+Installing JDK for Windows
+Installing IntelliJ iDea for Windows
+Configuring Intellij Idea for Mac & Windows
+Hello World Project
+Defining Main Method
+Hello World Challenge
+Variables in Java
+Primitive Type - Int
+Primitive Types - Byte, Long and Short
+Casting
+Primitive Type Challenge
+Float and Double in JAVA
+Floating point precision in Java
+Char in JAVA
+Boolean in Java
+Strings in Java
+Operators, Operands, Expressions and abbreviating operators
+if then statement
+Logical And Operator in JAVA
+Logical OR Operator in Java
+Assignment Vs Equal to Operator
+Ternary Operator in JAVA
+Operartor Precedence and Challenge
+Keywords and Expressions in JAVA
+if then else statement
+Methods in Java
+Method Challenge
+Method Overloading
+Method Overloading Revision
+Method Overloading Challenge
+Intro
+Switch statement in Java
+Switch Challenge in JAVA
+For Statement
+For Loop Challenge
+While Do-While
+While Statement Challenge
+Do-While Loop Challenge
+Parsing values from a string
+Reading User Input
+Reading User Input Challenge
+Classes
+Class challenge
+Constructor
+Constructor challenge
+Inheritance
+References vs Objects vs Class vs Instances
+This vs Super
+Method Overloading vs Overriding
+Static vs Instance Methods
+Static vs Instance Variables
+Composition
+Encapsulation
+Polymorphism
+Arrays in Java
+Reference types vs value types
+ArrayList
+Autoboxing and Unboxing
+LinkedList
+Interfaces in Java
+Inner Class
+Abstract Class
+Interfaces vs Abstract Class
+Naming Conventions in Java
+Packages
+Scope
+Visibility
+Access Modifiers
+Static Keyword
+Final Keyword in Java
+Static Initializers in Java
+Collection Framework
+Comparable Vs Comparator
+Introduction to Maps
+HashMaps
+Sets and HashSets
+hashCode() and equals()
+Sorted Collections - LinkedHashMap
+Sorted Collection - Linked HashSet
+TreeMap
+TreeSet
+Exceptions
+Catching and Throwing Exception
+Multi-Catch Exceptions
+BufferedReader in Java
+BufferedWriter
+Concurrency and Threads Introduction
+Threads
+Runnable and Threads
+Interrupt and Join
+Multiple Threads in Java
+Thread variables and Synchronization
+More on Synchronization
+Thread interference
+Using Try and Finally with Threads
+Deadlocks in Java
+Lambda expressions Introduction
+Lambda expressions and Nested Blocks
+Scope and Functional Interfaces
+Functional Interfaces & Predicates
+Functions
+Streams
+Streams - Intermediate and Terminal Operations
+Flatmap
+Regular Expressions Introduction
+Character Classes & Boundary Matchers
+Quantifiers and the Pattern and Matcher classes
+Matcher Find in Java
+AND, OR & NOT
+Most asked Interview Questions
+22 Hours 45 mins
+DSA Course (Contains PrepInsta NanoDegree Certification)
+Pre-DSA
+Pointers and Arrays in DSA
+Time Complexity
+Recursion in DSA
+Searching and Sorting
+Stacks
+Queues
+Linked List
+Trees
+Binary Search Tree
+Hashing
+Graphs
+Heaps
+40 Hours 
